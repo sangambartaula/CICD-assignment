@@ -3,7 +3,7 @@
 This repository is a sample Python project designed to demonstrate the implementation of Continuous Integration and Continuous Delivery (CI/CD) pipelines. It is intended as an assignment for exploring automated testing, build processes, and deployment strategies.
 
 
-## Project Structure
+## Project Structure (TEST)
 
 - **.**: Contains the Flask API backend.
 - **.github/workflows/**: GitHub Actions configuration files for CI/CD.
